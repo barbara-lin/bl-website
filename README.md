@@ -28,8 +28,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/barbara-lin/bl-website.git
+    cd bl-website
     ```
 
 2. **Install dependencies**:
